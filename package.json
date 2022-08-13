@@ -1,0 +1,23 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-18/Fullstack_To_Do_List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav-18/Fullstack_To_Do_List/issues"
+  },
+  "homepage": "https://github.com/sourav-18/Fullstack_To_Do_List#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
